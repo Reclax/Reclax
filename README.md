@@ -25,10 +25,6 @@ I'm a **22-year-old Software Engineering student** at the **Universidad Técnica
 - **Tools**: Git, Docker, VS Code, Postman.
 - **Interests**: Artificial Intelligence, Cloud Computing, and DevOps.
 
-### 🌐 Let's Connect:
-- **LinkedIn**: [Marco Serrano](https://linkedin.com/in/marco-serrano)
-- **Email**: [marco.serrano@example.com](mailto:marco.serrano@example.com)
-
 ### 🎯 Fun Fact:
 Did you know? The first "Hello, World!" program was written in **C** by Brian Kernighan in 1972. That little snippet has inspired millions of developers worldwide—including me!
 
